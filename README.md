@@ -1,2 +1,2 @@
-# cpp_bar
+# C++ Bar Simulation
 A bar simulation implementation in C++
